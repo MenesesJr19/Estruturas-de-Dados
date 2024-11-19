@@ -1,0 +1,4 @@
+1	Teu	Rodrigues	matematica	1
+1	Meu	Miguel Rodrigues	informatica	0
+2	Teste	Eu hak	informatica	0
+3	Anatomia	aspire	ciencia	0

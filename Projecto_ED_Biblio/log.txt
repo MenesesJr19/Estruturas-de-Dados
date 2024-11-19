@@ -1,0 +1,1068 @@
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:25:33 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:25:33 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:25:33 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:25:33 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:25:33 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:25:33 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:25:33 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:25:33 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:25:33 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:25:33 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:25:33 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Sun Jun 30 01:25:33 2024
+
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:26:13 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:26:13 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:26:13 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:26:13 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:26:13 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:26:13 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:26:13 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:26:13 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:26:13 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:26:13 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:26:13 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Sun Jun 30 01:26:13 2024
+
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:01 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:01 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:01 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:01 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:01 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:01 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:01 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:01 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:01 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:01 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:01 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Sun Jun 30 01:28:01 2024
+
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:12 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:12 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:12 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:28:12 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:12 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:12 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:12 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:12 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:12 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:12 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:28:12 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Sun Jun 30 01:28:11 2024
+
+Entrei em DestruirBiblioteca na data Sun Jun 30 01:28:59 2024
+
+Biblioteca destruída com sucesso em Sun Jun 30 01:28:59 2024
+
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:34:50 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:34:50 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:34:50 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Sun Jun 30 01:34:50 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:34:50 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:34:50 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:34:50 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:34:50 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:34:50 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:34:50 2024
+
+Entrei em PesquisarRequisitante na data Sun Jun 30 01:34:50 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Sun Jun 30 01:34:50 2024
+
+Entrei em DestruirBiblioteca na data Sun Jun 30 01:34:54 2024
+
+Biblioteca destruída com sucesso em Sun Jun 30 01:34:54 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:37:15 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:37:15 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:37:15 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:37:15 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:37:15 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:37:15 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:37:15 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:37:15 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:37:15 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:37:15 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:37:15 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 12:37:14 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:49:58 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:49:58 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:49:58 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 12:49:58 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:49:58 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:49:58 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:49:58 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:49:58 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:49:58 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:49:58 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 12:49:58 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 12:49:58 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 12:50:32 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 12:50:32 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:00:43 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:00:43 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:00:43 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:00:43 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:00:43 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:00:43 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:00:43 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:00:43 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:00:43 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:00:43 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:00:43 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:00:43 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:00:59 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:00:59 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:09:28 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:09:28 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:09:28 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:09:28 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:09:28 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:09:28 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:09:28 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:09:28 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:09:28 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:09:28 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:09:28 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:09:27 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:09:48 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:09:48 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:12:52 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:12:52 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:12:52 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:12:52 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:12:52 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:12:52 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:12:52 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:12:52 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:12:52 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:12:52 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:12:52 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:12:51 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:15:59 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:15:59 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:15:59 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:15:59 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:15:59 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:15:59 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:15:59 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:15:59 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:15:59 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:15:59 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:15:59 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:15:59 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:16:41 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:16:41 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:18:29 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:18:29 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:18:29 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:18:29 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:18:29 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:18:29 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:18:29 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:18:29 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:18:29 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:18:29 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:18:29 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:18:28 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:18:40 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:18:40 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:19:47 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:19:47 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:19:47 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:19:47 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:19:47 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:19:47 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:19:47 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:19:47 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:19:47 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:19:47 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:19:47 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:19:47 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:19:49 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:19:49 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:31:24 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:31:24 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:31:24 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:31:24 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:31:24 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:31:24 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:31:24 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:31:24 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:31:24 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:31:24 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:31:24 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:31:24 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:32:21 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:32:21 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:33:36 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:33:36 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:33:36 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:33:36 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:33:36 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:33:36 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:33:36 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:33:36 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:33:36 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:33:36 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:33:36 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:33:36 2024
+
+Entrei em ShowBiblioteca na data Tue Jul 02 13:33:40 2024
+
+Entrei em LivroMaisRequisitadoBiblioteca na data Tue Jul 02 13:34:11 2024
+
+Livro mais requisitado: ID = 1, Nome = Meu, Autor = Miguel Rodrigues, Área = informatica
+Número de requisições: 3
+Entrei em AreaMaisComumBiblioteca na data Tue Jul 02 13:34:17 2024
+
+Áreas com o maior número de livros (2):
+Área: informatica, Número de livros: 2
+Entrei em PesquisarRequisitanteNome na data Tue Jul 02 13:34:41 2024
+
+Entrei em MostrarLivrosRequisitadosPorPessoa na data Tue Jul 02 13:34:44 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:36:16 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:36:16 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:37:35 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:37:35 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:37:35 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:37:35 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:37:35 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:37:35 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:37:35 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:37:35 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:37:35 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:37:35 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:37:35 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:37:34 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:38:04 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:38:04 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:32 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:32 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:32 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:32 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:32 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:32 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:32 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:32 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:32 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:32 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:32 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:38:32 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:38:45 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:38:45 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:49 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:49 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:49 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:38:49 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:49 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:49 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:49 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:49 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:49 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:49 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:38:49 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:38:49 2024
+
+Entrei em ShowBiblioteca na data Tue Jul 02 13:39:28 2024
+
+Entrei em MostrarRequisitantesComLivrosRequisitados na data Tue Jul 02 13:42:06 2024
+
+Entrei em MostrarPessoasNuncaRequisitaram na data Tue Jul 02 13:42:25 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:44:33 2024
+
+Entrei em MostrarLivrosRequisitadosPorPessoa na data Tue Jul 02 13:44:33 2024
+
+Entrei em ShowBiblioteca na data Tue Jul 02 13:44:51 2024
+
+Entrei em PesquisarRequisitanteNome na data Tue Jul 02 13:46:05 2024
+
+Entrei em MostrarLivrosRequisitadosPorPessoa na data Tue Jul 02 13:46:12 2024
+
+Entrei em MostrarRequisitantesComLivrosRequisitados na data Tue Jul 02 13:46:39 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:46:58 2024
+
+Entrei em MostrarLivrosRequisitadosPorPessoa na data Tue Jul 02 13:47:01 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:47:47 2024
+
+Entrei em MostrarLivrosRequisitadosPorPessoa na data Tue Jul 02 13:47:47 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:48:28 2024
+
+Entrei em MostrarLivrosRequisitadosPorPessoa na data Tue Jul 02 13:48:28 2024
+
+Entrei em AreaMaisRequisitadaBiblioteca na data Tue Jul 02 13:49:51 2024
+
+Áreas com o maior número de requisições (4):
+Área: informatica, Número de requisições: 4
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:51:43 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:51:43 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:57:13 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:57:13 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:57:13 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 13:57:13 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:57:13 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:57:13 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:57:13 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:57:13 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:57:13 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:57:13 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 13:57:13 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 13:57:12 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 13:59:15 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 13:59:15 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:16 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:16 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:16 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:16 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:16 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:16 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:16 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:16 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:16 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:16 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:16 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 14:01:16 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 14:01:32 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 14:01:32 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:53 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:53 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:53 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 14:01:53 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 14:01:53 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 14:01:53 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 14:02:03 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 14:02:03 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 16:49:53 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 16:49:53 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 16:49:53 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 16:49:53 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Entrei em PesquisarRequisitante na data Tue Jul 02 16:49:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 16:49:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 16:49:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 16:49:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 16:49:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 16:49:53 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 16:49:53 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 16:49:53 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 16:49:58 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 16:49:58 2024
+
+Entrei em AddLivroBiblioteca na data Tue Jul 02 17:33:02 2024
+
+Livro adicionado: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia
+Entrei em AddLivroBiblioteca na data Tue Jul 02 17:33:02 2024
+
+Livro adicionado: ID=2, Título=Teste, Autor=Eu hak, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 17:33:02 2024
+
+Livro adicionado: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica
+Entrei em AddLivroBiblioteca na data Tue Jul 02 17:33:02 2024
+
+Livro adicionado: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica
+Carregando livros do ficheiro livros.txt
+Livro lido: ID=3, Título=Anatomia, Autor=aspire, Área=ciencia, Disponível=0
+Livro lido: ID=2, Título=Teste, Autor=Eu hak, Área=informatica, Disponível=1
+Livro lido: ID=1, Título=Meu, Autor=Miguel Rodrigues, Área=informatica, Disponível=0
+Livro lido: ID=1, Título=Teu, Autor=Rodrigues, Área=matematica, Disponível=1
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:02 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:02 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:02 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:02 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:02 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:02 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:02 2024
+
+Carregando requisicoes do ficheiro requisicoes.txt
+Requisicao lida: ID=41, ReqID=663959318, LivroID=3, Area=ciencia, DataReq=25-06-2024 09:46:21, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 02:52:22, DataDev=24-06-2024 22:19:12
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=2, Area=informatica, DataReq=25-06-2024 08:20:00, DataDev=25-06-2024 09:08:36
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 08:18:01, DataDev=25-06-2024 07:26:56
+Requisicao lida: ID=41, ReqID=609140307, LivroID=1, Area=matematica, DataReq=25-06-2024 09:16:50, DataDev=25-06-2024 06:40:16
+Requisicao lida: ID=18467, ReqID=609140307, LivroID=1, Area=informatica, DataReq=25-06-2024 09:25:19, DataDev=Não devolvido
+Requisicao lida: ID=41, ReqID=174094889, LivroID=1, Area=matematica, DataReq=30-06-2024 00:19:15, DataDev=30-06-2024 00:21:28
+Entrei em LoadFicheiroBiblioteca na data Tue Jul 02 17:33:01 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:21 2024
+
+Entrei em PesquisarRequisitante na data Tue Jul 02 17:33:45 2024
+
+Entrei em ShowBiblioteca na data Tue Jul 02 17:33:53 2024
+
+Entrei em DestruirBiblioteca na data Tue Jul 02 17:34:10 2024
+
+Biblioteca destruída com sucesso em Tue Jul 02 17:34:10 2024
